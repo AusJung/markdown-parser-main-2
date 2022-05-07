@@ -9,6 +9,7 @@ public class MarkdownParseTest {
 
     @Test
     public void addition() {
+        System.out.println("additional");
         assertEquals(2, 1 + 1);
     }
     @Test
